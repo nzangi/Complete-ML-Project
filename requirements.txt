@@ -7,5 +7,5 @@ catboost
 xgboost
 scikit-learn
 catboost
-
+dill
 -e .
